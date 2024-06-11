@@ -1,1 +1,1 @@
-### spring cloud config server yml ###
+spring cloud config server yml
