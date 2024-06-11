@@ -1,0 +1,4 @@
+jwt:
+  secret: YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd6eXoxMjMxMjMxMjMxMjMxMjMxMzEyMzEyMzEzMTIzMTIzMTIzMTMxMjMxMzEzMTMxMjM
+  expiration_time: 60000
+  refresh_expiration_time: 86400000
