@@ -4,8 +4,6 @@ spring:
     username: postgres
     password: '{cipher}7dc97ce72a55b33bbbae94298ec6869ef6c26c1d05085c3dc17d810eba395225'
   cloud:
-    config:
-      name: ecommerce
   rabbitmq:
     host: localhost
     port: 5672
