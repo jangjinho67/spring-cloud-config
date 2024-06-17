@@ -10,4 +10,4 @@ spring:
     username: guest
     password: '{cipher}949246d7a24d771708e302ec1799a0bdbc590d374f43d8fa8540b583ba35f598'
 order-service:
-  url: http://localhost:8000/order-service/%s/orders
+  url: http://ORDER-SERVICE/order-service/%s/orders
