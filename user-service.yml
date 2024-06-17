@@ -9,4 +9,5 @@ spring:
     port: 5672
     username: guest
     password: '{cipher}949246d7a24d771708e302ec1799a0bdbc590d374f43d8fa8540b583ba35f598'
-
+order-service:
+  uri: http://localhost:8000/order-service/%s/orders
